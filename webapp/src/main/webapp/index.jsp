@@ -2,10 +2,5 @@
 <h2> Welcome to DegitalPoint Technologies Inc. </h2>
 <h2> Glad to see you here </h2>
 <h2> Hello DEVOPS</h2>
+< h2> THis is my new code </h2>
 
-<h1> Hello, We are deploying code using Docker engine </h1>
-<h2> Hello Docker </h2> 
-
-< h2> Hello, Aug 27 </H2>
-
-< h2> Hello, Nizam </H2>
